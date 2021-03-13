@@ -36,6 +36,8 @@ JSON         19 mins         ███▒░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zembruzkill&repo=ComputerNetworks-UFRGS/jems3-frontend)](https://github.com/zembruzkill/README.md)
+
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zembruzkill&show_icons=true&theme=buefy&count_private=true" alt="zembruzkill" />
