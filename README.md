@@ -28,13 +28,6 @@ Hi, I'm [Luciano Zembruzki](https://zembruzkill.github.io/), currently I am Ph.D
 
 📊 **I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-Python       50 mins         ████████▒░░░░░░░░░░░░░░░░   32.69 % 
-TypeScript   41 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.13 % 
-Other        21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-JSON         19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-```
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zembruzkill)](https://github.com/zembruzkill/github-readme-stats)
 <!--END_SECTION:waka-->
 
