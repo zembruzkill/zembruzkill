@@ -34,6 +34,8 @@ TypeScript   41 mins         ██████▓░░░░░░░░░░
 Other        21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 % 
 JSON         19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 % 
 ```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zembruzkill)](https://github.com/zembruzkill/github-readme-stats)
 <!--END_SECTION:waka-->
 
 📈 My GitHub Stats
