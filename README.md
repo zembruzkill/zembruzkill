@@ -10,7 +10,7 @@
 Hi, I'm [Luciano Zembruzki](https://zembruzkill.github.io/), currently I am Ph.D. student in Computer Science at Federal University of Rio Grande do Sul (UFRGS) advised by Prof. Dr. Lisandro Zambenedetti Granville. I achieved B.Sc. Degree in Computer Science from the Integrated Regional University (URI) - Campus Frederico Westphalen, in 2017. I hold M.Sc. Degree in Computer Science from UFRGS, in 2020. My research interests include Internet Measurements, Network Functions Virtualization (NFV) , Software-Defined Networking (SDN), and Distributed Systems. Also, I participate in the development of the new version of JEMS as a Backend and Frontend developer. The project Backend is being developed using Python and Django Framework and the Frontend using NodeJS and Angular. In addition, I am responsible for the continuous integration on (Gitlab), deployment using Docker Containers, and maintenance of the system.
 
 
-  <img align="right" alt="GIF" src="https://github.com/zembruzkill/zembruzkill/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/zembruzkill/zembruzkill/main/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [E-mail](mailto:lzembruzki@inf.ufrgs.br);
@@ -35,8 +35,6 @@ Other        21 mins         ███▓░░░░░░░░░░░░░
 JSON         19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 % 
 ```
 <!--END_SECTION:waka-->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zembruzkill&repo=ComputerNetworks-UFRGS/jems3-frontend)](https://github.com/zembruzkill/README.md)
 
 📈 My GitHub Stats
 
