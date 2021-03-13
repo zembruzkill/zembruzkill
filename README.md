@@ -1,0 +1,53 @@
+- 👋 Hi, 
+- 👀 I’m interested in Python, Django, 
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.linkedin.com/in/luciano-zembruzki-406471172/">
+  <img align="left" alt="Luciano's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/l_zembruzki/">
+  <img align="left" alt="Lucianos's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=zembruzkill.zembruzkill)
+
+<br />
+
+Hi, I'm [Luciano Zembruzki](https://zembruzkill.github.io/), urrently I am Ph.D. student in Computer Science at Federal University of Rio Grande do Sul (UFRGS) advised by Prof. Dr. Lisandro Zambenedetti Granville. I achieved B.Sc. Degree in Computer Science from the Integrated Regional University (URI) - Campus Frederico Westphalen, in 2017. I hold M.Sc. Degree in Computer Science from UFRGS, in 2020. My research interests include Internet Measurements, Network Functions Virtualization (NFV) , Software-Defined Networking (SDN), and Distributed Systems.
+
+
+  <img align="right" alt="GIF" src="https://github.com/zembruzkill/zembruzkill/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [E-mail](mailto:lzembruzki@inf.ufrgs.br);
+
+- 🌱 I’m currently and continuously learning: 
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+📊 **I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Python       50 mins         ████████▒░░░░░░░░░░░░░░░░   32.69 % 
+TypeScript   41 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.13 % 
+Other        21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+JSON         19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+```
+<!--END_SECTION:waka-->
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zembruzkill&show_icons=true&theme=gotham" alt="zembruzkill" />
+
+
+
+
