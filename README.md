@@ -2,9 +2,6 @@
 <a href="https://www.linkedin.com/in/luciano-zembruzki-406471172/">
   <img align="left" alt="Luciano's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/l_zembruzki/">
-  <img align="left" alt="Lucianos's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zembruzkill.zembruzkill)
 
