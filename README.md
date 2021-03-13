@@ -38,7 +38,7 @@ JSON         19 mins         ███▒░░░░░░░░░░░░░
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zembruzkill&show_icons=true&theme=gotham" alt="zembruzkill" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zembruzkill&show_icons=true&theme=buefy" alt="zembruzkill" />
 
 
 
