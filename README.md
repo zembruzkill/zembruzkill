@@ -33,7 +33,7 @@ Hi, I'm [Luciano Zembruzki](https://zembruzkill.github.io/), currently I am Ph.D
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zembruzkill&show_icons=true&theme=buefy&count_private=true" alt="zembruzkill" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=zembruzkill&show_icons=true&theme=buefy&count_private=true" alt="zembruzkill" />
 
 
 
