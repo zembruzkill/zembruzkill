@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Currently I am Ph.D. student in Computer Science at Federal University of Rio Grande do Sul (UFRGS) advised by Prof. Dr. Lisandro Zambenedetti Granville. I achieved B.Sc. Degree in Computer Science from the Integrated Regional University (URI) - Campus Frederico Westphalen, in 2017. I hold M.Sc. Degree in Computer Science from UFRGS, in 2020. My research interests include Internet Measurements, Network Functions Virtualization (NFV) , Software-Defined Networking (SDN), and Distributed Systems. Also, I participate in the development of the new version of JEMS as a Backend and Frontend developer. The project Backend is being developed using Python and Django Framework and the Frontend using NodeJS and Angular. In addition, I am responsible for the continuous integration on (Gitlab), deployment using Docker Containers, and maintenance of the system.</p>
+<p align="left">Currently I am Ph.D. student in Computer Science at Federal University of Rio Grande do Sul (UFRGS) advised by Prof. Dr. Lisandro Zambenedetti Granville. I achieved B.Sc. Degree in Computer Science from the Integrated Regional University (URI) - Campus Frederico Westphalen, in 2017. I hold M.Sc. Degree in Computer Science from UFRGS, in 2020. My research interests include Internet Measurements, Network Functions Virtualization (NFV) , Software-Defined Networking (SDN), and Distributed Systems. Also, I participate in the development of the new version of JEMS as a Full-Stack developer. The project Backend is being developed using Python and Django Framework and the Frontend using NodeJS and Angular. In addition, I am responsible for the continuous integration on (Gitlab), deployment using Docker Containers, and maintenance of the system.</p>
 
 ###
 
